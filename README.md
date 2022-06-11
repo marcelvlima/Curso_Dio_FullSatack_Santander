@@ -28,9 +28,29 @@
 
 - Introdução a criação de websites com HTML5 e CSS3 ✔
 
-- ##### Posicionando elementos com Flexbox em CSS
+- Posicionando Elementos do Flexbox ✔
 
-- ##### Recriando a página inicial do Instagram
+- Recriando a página inicial do Instragram ✔
+
+- Introdução Javascript
+
+- Sintaxe e Operadores
+
+- Variáveis e Tipos
+
+- Funções
+
+- Coleções
+
+- Map, Filter e Reduce
+
+- Debbuging e Error Handling
+
+- Javascript assíncrono
+
+- Orientação a Objetos
+
+  
 
   
 
